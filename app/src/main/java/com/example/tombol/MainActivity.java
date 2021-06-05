@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     // loginamik
     // z&HXtxY6DQX!dpjY#tm1
+    // komen
 
     public EditText username;
     public String username_text;
